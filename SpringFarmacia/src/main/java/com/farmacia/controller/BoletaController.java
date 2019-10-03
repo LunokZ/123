@@ -25,7 +25,7 @@ public class BoletaController {
 			//cabecera
 			Boleta bol=new Boleta();
 			bol.setFechaEmision(new Date());
-			bol.setMonto(55555);
+			bol.setMonto(555555);
 			//Cliente
 			Cliente c=new Cliente();
 			c.setCodCliente(1);
